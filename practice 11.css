@@ -1,0 +1,96 @@
+.image-container{
+    overflow:scroll;
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 120px;
+    justify-content: center;
+    background-attachment:scroll;
+
+}
+.seven{
+    flex-direction: row;
+    display:flex;
+    gap:20px;
+}
+
+.one{
+    background-color: aqua;
+    height:80px;
+    width:90px;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+}
+.two{
+  background-color: blue; 
+  height:80px; 
+  width:90px;
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+}
+.three{
+    background-color: cadetblue;
+    height: 80px;
+    width:90px;
+    flex-direction: row;
+     display: flex;
+    justify-content: center;
+}
+.four{
+    background-color: burlywood;
+    height: 80px;
+    width:90px;
+    flex-direction: row;
+    justify-content: center;
+}
+.five{
+    background-color: crimson;
+    height:80px;
+    width:90px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.six{
+    background-color: deeppink;
+    height:80px;
+    width:90px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.main{
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 90px;
+    gap:20px;
+}
+
+.box{
+    display:flex;
+    flex-direction: column;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    align-items: center;
+    background-color: chartreuse;
+    color: black;
+    height:90px;
+    width:90px;
+    box-shadow: 20px 30px 50px blue;
+    color: blueviolet;
+
+
+}
+.box1{
+    text-shadow:5px 6px 2px red ;
+    color:black;
+    font-size: 25px;
+}

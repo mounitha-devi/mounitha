@@ -1,0 +1,23 @@
+.image{
+    background-color: blueviolet;
+    color: brown;
+    background-image: url(image1.png);
+    background-repeat:no-repeat;
+    height:240px;
+    width:140px;
+    border:solid;
+    border-color: hotpink;
+    
+}
+
+.card1{
+    border:solid;
+    border-color:blue;
+    width:100px;
+    position: relative;
+    top: 120px;
+    left:16px;
+
+    
+
+}

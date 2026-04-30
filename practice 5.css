@@ -1,0 +1,108 @@
+.container{
+    height: 200px;
+    width: 400px;
+    display: flex;
+    gap:20px;
+    flex-direction: row;
+    background-image: url(image6.png);
+    background-size: cover; 
+    margin: 10px; 
+}
+h1{
+    background-color: darkmagenta;
+}
+
+.shivpravathi{
+    background-color: aqua;
+    height: 200px;
+    width: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    order: 1;
+}
+.radhekrishna{
+    background-color:rgb(86, 139, 0);
+    height: 200px;
+    width:50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    order: 2;
+    
+}
+.ramasita{
+    background-color:deeppink;
+    height: 200px;
+    width:50px;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    
+}
+.ganesha{
+    background-color:pink;
+    height: 200px;
+    width:50px;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+
+}
+.srinivas{
+    background-color:blue;
+    height: 200px;
+    width:50px;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+}
+.manikanta{
+    background-color:salmon;
+    height: 200px;
+    width:50px;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+}
+ 
+.sairam{
+    background-color:rgb(179, 255, 0);
+    height: 200px;
+    width: 150px;
+    padding: 20px;
+    display: flex;
+    gap: 10px;
+
+
+
+}
+    
+
+.bluetooth{
+  background-image:radial-gradient(hotpink,royalblue);
+  height: 200px; 
+  width: 90px;
+  display:flex;
+  flex-direction:row;
+  gap: 10px;
+}
+
+.smartwatch{
+    background-image:radial-gradient(cyan,purple,gold);
+    height: 200px; 
+    width: 90px;
+    display:flex;
+    flex-direction:row;
+    gap: 10px;
+  }
+
+
+.samsung{
+    background-image:linear-gradient(lightcyan,burlywood,violet);
+    height: 200px; 
+    width: 90px;
+    display:flex;
+    flex-direction:row;
+    gap: 10px;
+  }

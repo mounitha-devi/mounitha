@@ -1,0 +1,56 @@
+.peacock{
+    background-color: darkorchid;
+    color:azure;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: "header header header"
+     "mid-sec mid-sec mid-sec""footer footer footer";
+     justify-items: center;
+     gap:20px;
+    
+}
+.notes1{
+    background-color: aqua;
+    color:black;
+    grid-area: header;
+    
+    
+}
+.notes2{
+    background-color: darkcyan;
+    color:red;
+    grid-area: footer;
+
+}
+.notes3{
+    background-color: burlywood;
+    color: blue;
+    grid-area:mid-sec;
+
+}
+div:nth-child(2){
+    background-color: chocolate;
+    color: azure;
+    grid-area: footer;
+}
+div:nth-of-type(3){
+    background-color: yellow;
+    color:brown;
+    grid-area: mid-sec;
+}
+
+
+.five:hover{
+    background-color:burlywood;
+}
+.radhekrishna :nth-child(4){
+    background-color: brown;
+}
+p:hover{
+    background-color: aqua;
+
+}
+
+
+
+

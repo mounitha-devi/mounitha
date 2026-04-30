@@ -1,0 +1,77 @@
+.sambar{
+    background-color:brown;
+    display: block;
+    height: 90px;
+    width: 90px;
+    color: bisque;
+    text-align: center;
+    gap: 10px;
+}
+.chickencurry{
+    background-color: blanchedalmond;
+    display:inline;
+    height: 100px;
+    width: 100px;
+    color: black;
+    text-align: center;
+    gap:10px;
+}
+.oniondosa{
+   background-color: burlywood; 
+   display:inline-block;
+   height: 200px;
+   width: 200px;
+   color: blue;
+   text-align: center;
+   gap: 10;
+}
+
+.tomatodal{
+    background-color:hotpink;
+    display: block;
+    height: 90px;
+    width: 90px;
+    color: darkviolet;
+    text-align: center;
+    gap:10;
+}
+
+
+.image-container{
+background-image:url(image3.png);
+background-repeat: no-repeat;
+color:purple;
+height:300px;
+width: 700px;
+text-align:center;
+padding: 20px;
+margin: 10px;
+font-style: italic;
+}
+
+.six{
+    background-color: black;
+    color:deeppink;
+    font-size: 20px;
+}
+
+.five{
+    text-align: left;
+}
+
+.four{
+    background-color: azure;
+}
+
+.bluetooth{
+    background-color: darksalmon;
+    padding:5px;
+    font-style: italic;
+    font-size: 20px;
+    text-decoration: underline;
+
+}
+.iphone{
+    background-color: aliceblue;
+    font-size: 20px;
+}

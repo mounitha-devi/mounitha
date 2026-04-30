@@ -1,0 +1,180 @@
+.box{
+    border:dashed;
+    border-color: blue;
+    background-color: rgb(237, 100, 100);
+    text-align: center;
+    color:darkkhaki;
+    width: 90px;
+    height: 100px;
+    gap: 10px;
+}
+.box1{
+    border: solid;
+    border-color:aqua ;
+    background-color: blueviolet;
+    text-align: center;
+    color:whitesmoke;
+    width: 90px;
+    height: 100px;
+    gap: 20px;
+}
+.box2{
+    border: dotted;
+    border-color:yellow;
+    background-color: darkblue;
+    text-align: center;
+    color: red;
+    width: 90px;
+    height: 100px;
+    gap: 10px;
+}
+.card{
+    overflow:scroll;
+    height: 70px;
+    width: 90px;
+    background-color: cadetblue;
+    color: aliceblue;
+    text-align: center;
+}
+.card1{
+    background-color: blue;
+    color: beige;
+    overflow: scroll;
+    height: 70px;
+    width: 100px;
+    text-align: center;
+    visibility: hidden;
+    display:none;
+    
+
+
+}
+
+
+
+
+
+
+.shivleela{
+gap: 50px;
+flex-direction: row;
+display: flex;
+
+}
+
+/**/
+
+h1{
+    color:black
+    }
+    
+    #two{
+    background-color:rgb(193, 160, 221);
+   
+    height:60px;
+    padding:20px;
+    margin: 10px;
+    text-align:center;
+    font-style: oblique;
+    font-size: 15px;
+    position: relative;
+    top: 20px;
+    bottom: 30px;
+ }
+    
+    h2{
+    color:red
+    }
+    
+    .Main-container{
+    width:100%;
+    text-align:center;
+    background-color:royalblue;
+    
+    }
+    
+    
+    .rajii{
+    height:90px;
+    width:90px;
+    margin: 20px;
+    border-radius:90px;
+    position: sticky;
+    
+    }
+    
+    #three{
+    background-color:yellow;
+    color:brown;
+    padding:5px;
+    margin:20px;
+    text-align:center;
+    font-size:18px;
+    font-style:italic;
+    
+    
+    }
+    
+    
+    
+    h3{
+    color:darkblue
+    }
+    
+    
+    .hema{
+    background-color:rgb(226, 43, 186);
+    text-align:center;
+    height:200px;
+    padding:5px;
+    margin: 20px;
+    color:white;
+    }
+    
+    #radhekrishna{
+    
+    background-color:darkorchid;
+    height:200px;
+    text-align:center;
+    color:black;
+    padding:5px;
+    margin: 20px;
+    left: 30px;
+    font-style:italic;
+    top: 30px;
+    position: absolute;
+    
+
+    }
+    
+    #sub-container{
+    
+    gap:10px;
+    justify-content:center;
+    }
+
+    #mounitha{
+        background-color: aquamarine;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        position: fixed;
+        font-size: 25px;
+        font-style: italic;
+        gap: 200px;
+        width: 100%;
+        color: blue;
+    
+    }
+    .card{
+        position: relative;
+        bottom: 30px;
+    }
+    
+    
+        
+    
+    
+    
+    
+    

@@ -1,0 +1,40 @@
+.image-container{
+    background-image:url(image6.png);
+    height:400px;
+    width:275px;
+    padding:20px;
+    
+
+}
+.one{
+    background-color: darkgoldenrod;
+    height:180px;
+    width:300px;
+    position: relative;
+    top:210px;
+    margin:5px;
+    right:18px;
+    
+
+}
+.two{
+    font-family:serif ;
+    position: relative;
+    left:15px;
+}
+.three{
+    position:relative;
+    left:15px;
+    font-size: 18px;
+    font-family: Gothic Medium;
+
+}
+.four{
+    position: relative;
+    left: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height:30px;
+}

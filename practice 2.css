@@ -1,0 +1,96 @@
+h1{
+color:black
+}
+
+#two{
+background-color:rgb(193, 160, 221);
+height:60px;
+padding:20px;
+margin:20px;
+text-align:center;
+font-style: oblique;
+}
+
+h2{
+color:red
+}
+
+.Main-container{
+width:100%;
+text-align:center;
+background-color:royalblue;
+}
+
+
+.rajii{
+height:90px;
+width:90px;
+margin: 20px;
+border-radius:90px;
+
+}
+
+#three{
+background-color:yellow;
+color:brown;
+padding:30px;
+margin:20px;
+text-align:center;
+font-size:18px;
+font-style:italic;
+}
+
+
+
+h3{
+color:darkblue
+}
+
+
+.hema{
+background-color:rgb(226, 43, 186);
+text-align:center;
+height:200px;
+padding:5px;
+margin: 20px;
+color:white;
+}
+
+#radhekrishna{
+
+background-color:darkorchid;
+height:150px;
+text-align:center;
+color:black;
+padding:5px;
+margin: 20px;
+font-style:italic;
+}
+
+#sub-container{
+display:flex;
+flex-direction:row;
+gap:10px;
+justify-content:center;
+}
+
+#table{
+    background-color: cyan; 
+    justify-self: center;
+    display: flex;
+    flex-direction:row;
+}
+
+.sub-container{
+    display: flex;
+    flex-direction:row ;
+    gap:280px;
+    padding:30px;
+    font-size:25px;
+    font-style:italic;
+}
+    
+
+
+
+

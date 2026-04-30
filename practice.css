@@ -1,0 +1,24 @@
+      h1{
+     color:white
+    }
+
+.one{
+display:flex;
+flex-direction:row;
+}
+#satya{
+background-color:hotpink;
+height:20px;
+width:1000px;
+text-align:center;
+padding:20px;
+}
+
+.mounitha{
+background-color:blue;
+height:20px;
+width:1000px;
+text-align:center;
+padding:20px;
+}
+
