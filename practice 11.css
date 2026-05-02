@@ -63,14 +63,14 @@
     justify-content: center;
 }
 .main{
-    background-image: url(image.png);
+    background-image: url(image1.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
     display:flex;
     align-items: center;
     justify-content: center;
-    opacity: 90px;
+    opacity: 0.6;
     gap:20px;
 }
 
