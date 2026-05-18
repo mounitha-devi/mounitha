@@ -67,7 +67,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
-    display:flex;
     align-items: center;
     justify-content: center;
     opacity: 0.6;
@@ -81,7 +80,6 @@
     border-bottom-left-radius: 40px;
     align-items: center;
     background-color: chartreuse;
-    color: black;
     height:90px;
     width:90px;
     box-shadow: 20px 30px 50px blue;

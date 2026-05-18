@@ -1,0 +1,12 @@
+label{
+    color:darkgreen;
+}
+
+button{
+    color:white;
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: aqua;
+
+}

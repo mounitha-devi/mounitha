@@ -1,0 +1,34 @@
+
+
+
+.one{
+    background-image:url(image13.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height:500px;
+}
+
+h2{
+    color: royalblue;
+}
+
+button:hover{
+background-color: blue;
+color: lightblue;
+border: solid;
+border-color: aqua;
+}
+.daddy{
+    background-color: sandybrown;
+    color:navy;
+}
+label{
+    color:purple;
+    font-size: 20px;
+}
+
+input{
+    background-color: plum;
+    color: blue;
+}

@@ -5,7 +5,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-areas: "header header header"
      "mid-sec mid-sec mid-sec""footer footer footer";
-     justify-items: center;
+    
      gap:20px;
     
 }
