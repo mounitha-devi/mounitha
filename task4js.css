@@ -1,0 +1,29 @@
+input{
+    width:300px;
+    border-width: 5px;
+
+}
+
+select{
+    width:300px;
+    border-width: 5px;
+}
+h1{
+    background-color:blue;
+    color: yellow;
+}
+
+.pen{
+    text-align: center;
+}
+button{
+    padding: 10px;
+    border-color: blueviolet;
+}
+.dark1{
+    background-color: plum;
+}
+
+.password{
+color: brown;
+}

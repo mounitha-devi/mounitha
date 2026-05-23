@@ -22,3 +22,6 @@ for (let i=4;i<array_data.length;i++){
         console.log("hii mam")
     }
     greet();
+
+
+    
