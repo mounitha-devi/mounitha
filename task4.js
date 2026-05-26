@@ -40,7 +40,7 @@ let ball=document.getElementById("box");
  function jyothi(){
     let length=date.value.length;
     ball.innerHTML="characters :"+length;
-    if(length<=5){
+    if(length<=5){   
         passwords.innerHTML="weak password";
     }
     else if(length<=8){
