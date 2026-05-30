@@ -22,5 +22,5 @@ const sum=remaining.reduce((acc,item)=>{
     return acc+item;
 },0);
 console.log(sum);//array reduced method
-
+fetch("https://apis.ccbp.in/countries-data")
 
