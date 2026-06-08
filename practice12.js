@@ -75,3 +75,4 @@ for (let l=1;l<=8;l++){
     m=m1;
     m1=m2;
 }
+console.log("hii");
